@@ -1,2 +1,2 @@
 # Game-le-pendu
-Game : le pendu
+Andoroid application
